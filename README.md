@@ -54,9 +54,6 @@ project.json	Metadata and configuration for LearnMate project
 wx_agent.json	Agent settings and architecture details
 wx_prompt.json	Prompt template structure for agent interactions
 wx_agent.65aed5e9.json	Core behavior and detailed instructions for the LearnMate agent
-# Clone the repository
-git clone https://github.com/yourusername/learnmate.git
-cd learnmate
 # Technology 
 Use of IBM Cloud Lite services / IBM Granite
 
